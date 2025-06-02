@@ -5,6 +5,6 @@ Spam detection system using Naive Bayes, Logistic Regression, and SVM models wit
 
 2)Implemented and evaluated Naive Bayes, Logistic Regression, and SVM classifiers.
 
-3)Achieved over 97% accuracy with SVM, demonstrating strong model performance.
+3)Achieved over maximum accuracy with SVM amongst thee 3 models, demonstrating strong model performance.
 
 4)Preprocessed text data using lemmatization and stopword removal for improved classification.
